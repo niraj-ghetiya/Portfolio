@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
      "To gain confidence and fame using my potential in the field of 'Software Engineering', and express my innovative creative skills for self and company growth.",
   resumeLink:
-    "https://niraj-profile.vercel.app/",
-  portfolio_repository: "https://niraj-profile.vercel.app/",
+    "https://niraj-ghetiya-github.netlify.app",
+  portfolio_repository: "https://niraj-ghetiya-github.netlify.app",
   githubProfile: "https://github.com/niraj003",
 };
 
