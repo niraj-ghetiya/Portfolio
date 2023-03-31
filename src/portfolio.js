@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
      "To gain confidence and fame using my potential in the field of 'Software Engineering', and express my innovative creative skills for self and company growth.",
   resumeLink:
-    "https://drive.google.com/file/d/1O2ShL7uIVo38KRAWMhXVgkWcfWHhimLE/view?usp=share_link",
+    "https://niraj-profile.vercel.app/",
   portfolio_repository: "https://drive.google.com/file/d/1O2ShL7uIVo38KRAWMhXVgkWcfWHhimLE/view?usp=share_link",
   githubProfile: "https://github.com/niraj003",
 };
@@ -385,7 +385,7 @@ const degrees = {
       subtitle: "Higher Secondary Education(GHSEB)",
       logo_path: "12.png",
       alt_name: "RKVD",
-      duration: "2018 - 2024",
+      duration: "2018 - 2020",
       descriptions: [
         "⚡ Percentage : 70.00 %",
         // "⚡ Apart from this, I have done courses on java, php and Full Stack Development.",
