@@ -617,7 +617,7 @@ const publications = {
       createdAt: "2020-03-06T16:26:54Z",
       description: "in this project, we are going to guide those students which are enroll in engineering and they students are not know anything about their course, books , etc. ",
       url:
-        "https://ec0036624.000webhostapp.com/",
+        "https://engineeringcourses003.000webhostapp.com/",
     },
   ],
 };
