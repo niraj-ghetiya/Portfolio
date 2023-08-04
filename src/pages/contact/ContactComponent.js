@@ -26,7 +26,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  src={require(`../../assests/images/niraj.png`)}
+                  src={require(`../../assests/images/Niraj.png`)}
                   alt=""
                 />
               </div>
