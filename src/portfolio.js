@@ -455,17 +455,17 @@ const experience = {
     {
       title: "Work",
       experiences: [
-        // {
-          // title: "Associate AI Engineer",
-          // company: "Legato Health Technology",
-          // company_url: "https://legatohealthtech.com/",
-          // logo_path: "legato_logo.png",
-          // duration: "June 2020 - PRESENT",
-          // location: "Hyderabad, Telangana",
-          // description:
-            // // // "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          // color: "#0879bf",
-        // },
+        {
+          title: "Account software engineer",
+          company: "TSS Consultancy Pvt Ltd",
+          company_url: "https://www.trackwizz.com/company.html",
+          logo_path: "tss.png",
+          duration: "Jan 2024 - PRESENT",
+          location: "Rajkot, Gujarat, India",
+          description:
+            "C#,.net,java",
+          color: "#0879bf",
+        },
         // {
           // title: "Android and ML Developer",
           // company: "Muffito Incorporation",
@@ -626,7 +626,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "niraj.png",
+    profile_image_path: "newniraj.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
