@@ -463,7 +463,7 @@ const experience = {
           duration: "Jan 2024 - PRESENT",
           location: "Rajkot, Gujarat, India",
           description:
-            "C#,.net,java",
+            "As an Account Software Engineer at TSS Consultancy Pvt Ltd, I am responsible for developing and maintaining software solutions tailored to meet the accounting needs of our clients.",
           color: "#0879bf",
         },
         // {
