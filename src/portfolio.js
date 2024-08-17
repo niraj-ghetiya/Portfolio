@@ -456,14 +456,14 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Account software engineer",
+          title: "Associate Software Engineer - Al",
           company: "TSS Consultancy Pvt Ltd",
           company_url: "https://www.trackwizz.com/company.html",
           logo_path: "tss.png",
           duration: "Jan 2024 - PRESENT",
           location: "Rajkot, Gujarat, India",
           description:
-            "As an Account Software Engineer at TSS Consultancy Pvt Ltd, I am responsible for developing and maintaining software solutions tailored to meet the accounting needs of our clients.",
+            "",
           color: "#0879bf",
         },
         // {
