@@ -13,6 +13,7 @@ class ExperienceCard extends Component {
         className="experience-list-item"
         style={{ marginTop: index === 0 ? 30 : 50 }}
       >
+
         <Fade left duration={2000} distance="40px">
           <div className="experience-card-logo-div">
             <img
@@ -60,6 +61,7 @@ class ExperienceCard extends Component {
                   flexDirection: "row",
                   justifyContent: "space-between",
                 }}
+
               >
                 <div>
                   <h3
