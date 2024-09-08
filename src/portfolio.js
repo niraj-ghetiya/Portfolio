@@ -42,13 +42,13 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/niraj003",
+    link: "https://github.com/niraj-ghetiya",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/niraj-ghetiya-5b13b7220/?originalSubdomain=in",
+    link: "https://in.linkedin.com/in/niraj-ghetiya",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -86,47 +86,47 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    // {
-      // title: "Data Science & AI",
-      // fileName: "DataScienceImg",
-      // skills: [
-        // "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        // "⚡ Experience of working with Computer Vision and NLP projects",
-        // "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      // ],
-      // softwareSkills: [
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
         // {
-          // skillName: "Tensorflow",
-          // fontAwesomeClassname: "logos-tensorflow",
-          // style: {
-            // backgroundColor: "transparent",
-          // },
+        //   skillName: "Keras",
+        //   fontAwesomeClassname: "simple-icons:keras",
+        //   style: {
+        //     backgroundColor: "white",
+        //     color: "#D00000",
+        //   },
         // },
-        // {
-          // skillName: "Keras",
-          // fontAwesomeClassname: "simple-icons:keras",
-          // style: {
-            // backgroundColor: "white",
-            // color: "#D00000",
-          // },
-        // },
-        // {
-          // skillName: "PyTorch",
-          // fontAwesomeClassname: "logos-pytorch",
-          // style: {
-            // backgroundColor: "transparent",
-          // },
-        // },
-        // {
-          // skillName: "Python",
-          // fontAwesomeClassname: "ion-logo-python",
-          // style: {
-            // backgroundColor: "transparent",
-            // color: "#3776AB",
-          // },
-        // },
-      // ],
-    // },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -200,13 +200,13 @@ const skills = {
             color: "#663399",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:c",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -355,12 +355,12 @@ const competitiveSites = {
       // profileLink: "https://www.hackerearth.com/@ashutosh391",
     // },
     // {
-      // siteName: "Kaggle",
-      // iconifyClassname: "simple-icons:kaggle",
-      // style: {
-        // color: "#20BEFF",
-      // },
-      // profileLink: "https://www.kaggle.com/laymanbrother",
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
     // },
   ],
 };
