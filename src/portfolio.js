@@ -102,14 +102,14 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
-        // {
-        //   skillName: "Keras",
-        //   fontAwesomeClassname: "simple-icons:keras",
-        //   style: {
-        //     backgroundColor: "white",
-        //     color: "#D00000",
-        //   },
-        // },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
