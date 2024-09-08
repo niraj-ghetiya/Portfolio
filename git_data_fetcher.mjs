@@ -6,7 +6,7 @@ dotenv.config();
 
 const openSource = {
   githubConvertedToken: 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,
-  githubUserName: niraj003,
+  githubUserName: niraj-ghetiya,
 };
 
 const query_pr = {
