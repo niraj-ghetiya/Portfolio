@@ -631,10 +631,10 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "",
+    title: "MY Blogs",
     subtitle:
-      "",
-    link: "#",
+      "From Coding Basics to Advanced Machine Learning-Your Ultimate Hub for Web Development, Software Engineering, and Data Science Mastery.",
+    link: "https://niraj-blog.vercel.app/",
     avatar_image_path: "",
   },
   addressSection: {
