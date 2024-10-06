@@ -25,7 +25,7 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
-                <img src={require(`../../assests/images/Niraj.png`)} alt="" />
+                <img src={require(`../../assests/images/Niraj2.png`)} alt="" />
               </div>
               <div className="contact-heading-text-div">
                 <h1
